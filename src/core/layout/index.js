@@ -13,7 +13,7 @@ export const Layout = (props) => {
             </nav>
             <div className="flex-grow-1">
               <div className="ReactTitle ps-3  d-flex align-items-center">
-                <img src={require("../../react-2@2x.png")} alt="logo" />
+                {/* <img src={require("../../react-2@2x.png")} alt="logo" /> */}
                 <h3 className="mb-0">Food Nutrition</h3>
               </div>
               <div className="d-flex ps-3 align-items-center">
@@ -30,7 +30,7 @@ export const Layout = (props) => {
                     https://developer.nutritionix.com/docs/v2
                     </a>
                     <img
-                      src={require("../../noun-link.png")}
+                      // src={require("../../noun-link.png")}
                       className="ms-2"
                       alt="logo"
                     />
